@@ -32,3 +32,8 @@
 
 ------------------------------
 ## 💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
+------------------------------
+## GitHub Stats
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitKumar-AK&theme=gruvbox&show_icons=true)   ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-AK&layout=compact&theme=radical)
+<br/>
+[![Visits Badge](https://badges.pufler.dev/visits/AmitKumar-AK/AmitKumar-AK)](https://badges.pufler.dev)
