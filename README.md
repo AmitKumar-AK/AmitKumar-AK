@@ -9,11 +9,11 @@
 [![StackExchange Badge](https://img.shields.io/badge/-amitkumar-FFFFFF?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
 ---
 
-### I'm a Developer and working on MicroSoft Tech Stack, Content Managment System and learning Cloud Technologies, and i believe in sharing the knowledge.
+### I'm a Developer and working on Microsoft Tech Stack, Content Managment System and learning Cloud Technologies, and i believe in sharing the knowledge.
 -------
 ## 🧐 About Me
 
-- 💻 I’m currently working on backend development projects on MicroSoft Tech Stack and Cloud technologies.
+- 💻 I’m currently working on backend development projects on Microsoft Tech Stack and Cloud technologies.
 - ⏳ Exploring Microsoft Azure, AWS & Google Cloud
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🌱 I love to speak at public events and have been a speaker at many events.
