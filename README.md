@@ -1,6 +1,7 @@
 # Hi I'm Amit 👋💻
-
-#### *By helping others, you will learn how to help yourselves.🤝👨‍💻*
+```diff
+- By helping others, you will learn how to help yourselves.🤝👨‍💻
+```
 ---
 [![Twitter Badge](https://img.shields.io/badge/-@amitmnath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/amitmnath/)](http://twitter.com/amitmnath/) [![Linkedin Badge](https://img.shields.io/badge/-kumaramitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumaramitkumar/)](https://www.linkedin.com/in/kumaramitkumar/) 
 [![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
