@@ -20,7 +20,7 @@
 - 🏄‍ I'm sharing my knowledge with community via <a title="Amit's Blog" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> 
 
 -------
-## 🧐 Technologies and Tools I use
+## 🛠️ Technologies and Tools I use
 <code><a title="HTML 5" href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"></a></code>
 <code><a title="Cascading Style Sheets" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
