@@ -39,4 +39,5 @@
 ## GitHub Stats
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitKumar-AK&theme=gruvbox&show_icons=true)   ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-AK&layout=compact&theme=radical)
 <br/>
-[![Visits Badge](https://badges.pufler.dev/visits/AmitKumar-AK/AmitKumar-AK)](https://badges.pufler.dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmitKumar-AK&label=Visitors&countColor=%23263759&style=plastic)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/AmitKumar-AK/AmitKumar-AK)](https://badges.pufler.dev) -->
