@@ -31,6 +31,7 @@
 <code><a title="Docker" href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a title="Bootstrap" href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code>
 <code><a title="AngularJS" href="https://angularjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
+<code><a title="NextJS" href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></a></code>
 <code><a title="Sitecore CMS" href="https://www.sitecore.com/" target="_blank"><img height="30" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/global/logo/sitecore-logo.svg?la=en&hash=2134EC93C845A2DAC7C816F011AA5C52"></a></code>
 
 ------------------------------
