@@ -7,6 +7,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-amit.mnath-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amit.mnath@gmail.com)](mailto:amit.mnath@gmail.com)
 [![StackExchange Badge](https://img.shields.io/badge/-amitkumar-FFFFFF?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
+<a title="Amit's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
+
 ---
 
 ### I'm a Developer and working on Microsoft Tech Stack, Content Managment System and learning Cloud Technologies, and i believe in sharing the knowledge.
