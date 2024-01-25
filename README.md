@@ -6,8 +6,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@amitmnath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/amitmnath/)](http://twitter.com/amitmnath/) [![Linkedin Badge](https://img.shields.io/badge/-kumaramitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumaramitkumar/)](https://www.linkedin.com/in/kumaramitkumar/) 
 [![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-amit.mnath-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amit.mnath@gmail.com)](mailto:amit.mnath@gmail.com)
-[![StackExchange Badge](https://img.shields.io/badge/-amitkumar-FFFFFF?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
+[![StackExchange Badge](https://img.shields.io/badge/-amitkumar-1B75D0?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
 <a title="Amit's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
+[![Hashnode Badge](https://img.shields.io/badge/-amitkumar-2563EB?style=flat&logo=hashnode&logoColor=FFFFFF&link=https://hashnode.com/@AmitKumarr)](https://hashnode.com/@AmitKumarr)
+
 
 ---
 
@@ -19,7 +21,7 @@
 - ⏳ Exploring Microsoft Azure, AWS & Google Cloud
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🌱 I love to speak at public events and have been a speaker at many events.
-- 🏄‍ I'm sharing my knowledge with community via <a title="Amit's Blog" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> 
+- 🏄‍ I'm sharing my knowledge with community via <a title="Amit's Blog" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> **/** <a title="Enlighten with Amit" href="https://enlightenwithamit.hashnode.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Enlighten with Amit&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
 
 -------
 ## 🛠️ Technologies and Tools I use
