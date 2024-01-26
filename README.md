@@ -26,7 +26,7 @@
 -------
 ## 🛠️ Technologies and Tools I use
 <code><a title="HTML 5" href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
-<code><a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"></a></code>
+<code><a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="[https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg)"></a></code>
 <code><a title="Cascading Style Sheets" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
 <code><a title="C# language" href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
 <code><a title="Microsoft .NET" href="https://dotnet.microsoft.com/" target="_blank"><img height="30" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg"></a></code>
