@@ -3,12 +3,13 @@
 - By helping others, you will learn how to help yourselves.🤝👨‍💻
 ```
 ---
-[![Twitter Badge](https://img.shields.io/badge/-@amitmnath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/amitmnath/)](http://twitter.com/amitmnath/) [![Linkedin Badge](https://img.shields.io/badge/-kumaramitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumaramitkumar/)](https://www.linkedin.com/in/kumaramitkumar/) 
+<a title="Amit Kumar Linktree" href="https://linktr.ee/amitmnath" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/linktree-254f1a?style=for-the-badge&logo=linktree&logoColor=white"></a>
+[![Twitter Badge](https://img.shields.io/badge/amitmnath-%23000000.svg?logo=X&logoColor=white&link=http://twitter.com/amitmnath/)](http://twitter.com/amitmnath/) [![Linkedin Badge](https://img.shields.io/badge/-kumaramitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumaramitkumar/)](https://www.linkedin.com/in/kumaramitkumar/) 
 [![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-amit.mnath-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amit.mnath@gmail.com)](mailto:amit.mnath@gmail.com)
-[![StackExchange Badge](https://img.shields.io/badge/-amitkumar-1B75D0?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
-<a title="Amit's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
-[![Hashnode Badge](https://img.shields.io/badge/-amitkumar-2563EB?style=flat&logo=hashnode&logoColor=FFFFFF&link=https://hashnode.com/@AmitKumarr)](https://hashnode.com/@AmitKumarr)
+[![StackExchange Badge](https://img.shields.io/badge/-amitkumar-1E5397?style=flat&logo=stackexchange&logoColor=FFFFFF&link=https://sitecore.stackexchange.com/users/3035/amit-kumar)](https://sitecore.stackexchange.com/users/3035/amit-kumar)
+<a title="Amit's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
+<a title="Amit's YouTube Channel" href="https://www.youtube.com/@AmitKumar-Info" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-AmitKumar--Info-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<a title="Amit Kumar" href="https://bsky.app/profile/amitmnath.bsky.social" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/amitmnath.bsky.social-0285FF?logo=bluesky&logoColor=fff"></a>
 
 
 ---
@@ -36,7 +37,7 @@
 <code><a title="Bootstrap" href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code>
 <code><a title="AngularJS" href="https://angularjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
 <code><a title="NextJS" href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></a></code>
-<code><a title="Sitecore CMS" href="https://www.sitecore.com/" target="_blank"><img height="30" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/global/logo/sitecore-logo.svg?la=en&hash=2134EC93C845A2DAC7C816F011AA5C52"></a></code>
+<code><a title="Sitecore CMS" href="https://www.sitecore.com/" target="_blank"><img height="30" src="https://delivery-sitecore.sitecorecontenthub.cloud/api/public/content/logo-sitecore?t=sc24h"></a></code>
 
 ------------------------------
 ## 💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
