@@ -22,8 +22,7 @@
 - ⏳ Exploring Microsoft Azure, AWS & Google Cloud
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🌱 I love to speak at public events and have been a speaker at many events.
-- 🏄‍ I'm sharing my knowledge with community via <a title="Amit's Blog" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> **/** <a title="Enlighten with Amit" href="https://enlightenwithamit.hashnode.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Enlighten with Amit&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
-
+- 🏄‍ I'm sharing my knowledge with community via <a title="Enlighten with Amit" href="https://www.amitk.net/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@AmitK.Net-E86733?style=flat&labelColor=E86733&logo=rss&logoColor=white&link=https://www.amitk.net/"></a> **/**<a title="Amit's Blogspot" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> **/** <a title="Amit's Hashnode" href="https://enlightenwithamit.hashnode.dev" target="_blank"><img height="20" src="https://img.shields.io/badge/Enlighten_with_Amit-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white&link=https://enlightenwithamit.hashnode.dev" alt="Hashnode" /></a>
 -------
 ## 🛠️ Technologies and Tools I use
 <code><a title="HTML 5" href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
